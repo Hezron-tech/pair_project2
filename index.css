@@ -1,0 +1,29 @@
+.navbar{
+    display: flex;
+    
+    justify-content: center;
+}
+ul{
+    list-style: none;
+    display: flex;
+    margin-right: 0px;
+}
+li{
+    padding: 10px 30px;
+    font-size: 25px;
+    font-weight: 600;
+}
+.navbar > p {
+  margin-right: 700px;
+   font-size: 30px;
+   font-weight: bold;
+}
+span {
+    color: blue;
+}
+.cta{
+    background-color: rgb(71, 71, 163);
+    padding-top: 10px;
+    color: white;
+    
+}
