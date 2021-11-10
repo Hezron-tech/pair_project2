@@ -154,3 +154,8 @@ background-color:rgb(71, 71, 163);
     margin:10px;
     font-size: 2px;
 }
+.hez{
+    display: flex;
+
+    background-color: rgb(80, 80, 173);
+}
